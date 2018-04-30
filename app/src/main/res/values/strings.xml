@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Seixal Tour Guide</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_nav_attractions">Attractions</string>
+    <string name="action_nav_events">Events</string>
+    <string name="action_nav_public_places">Public places</string>
+    <string name="action_nav_restaurants">Restaurants</string>
+</resources>
